@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Login() {
   return (
     <div className="container">
-
+<h1>Just Click Login to Enter</h1>
         {/* <!-- Outer Row --> */}
         <div className="row justify-content-center">
 
