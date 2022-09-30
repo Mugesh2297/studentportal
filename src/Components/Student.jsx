@@ -63,7 +63,7 @@ let deleteProduct = async (id) =>{
                 </div>
                 <div className="card-body">
                     <div className="table-responsive">
-                        <table className="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                        <table className="table table-striped table-dark" id="dataTable" width="100%" cellspacing="0">
                             <thead>
                                 <tr>
                                     <th>S.NO</th>
